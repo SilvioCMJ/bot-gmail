@@ -5,7 +5,7 @@ import time
 
 destino = "teste@gmail.com "
 assunto = "teste123"
-msg = "teste321"
+msg = "teste123"
 navegador = "opera"
 
 
